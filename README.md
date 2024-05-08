@@ -1,4 +1,4 @@
-### Welcome on My Github! Enjoy 😺
+### Welcome on My Github! 😺
 
 <!--
 **Shaqix/Shaqix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
