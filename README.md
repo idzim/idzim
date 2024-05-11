@@ -9,6 +9,8 @@ I like to finding disfunctional things and bugs
 I also studing Computer Science at weeekends, where I learn about general fields of IT sector, learn how to use programming languages (C#, Javacript), working with Databases (Postgre, MySQL) and also build a website applications using HTML 5 and CSS.
 
 After hours I love coooking, board games and cats.
+
+##Check my portfolio!
 <!--
 **Shaqix/Shaqix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
