@@ -1,4 +1,4 @@
-### Welcome on My Github! 😺
+## Welcome on My Github! 😺
 
 I'm working as a Software Tester, mostly manual one, but I like to automize tasks, whatever I can. I do it mostly to optimize my daily work and develop myself with automation tools. Why? Because:
 
@@ -10,7 +10,7 @@ I also studing Computer Science at weeekends, where I learn about general fields
 
 After hours I love coooking, board games and cats.
 
-##Check my portfolio!
+## Check my portfolio!
 <!--
 **Shaqix/Shaqix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
