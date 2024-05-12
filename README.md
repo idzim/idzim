@@ -9,7 +9,7 @@ Why? Because:
 
 In my work I use: **T-SQL**, **Playwright**, **Azure DevOps**, **ISTQB**
 
-I also studing Computer Science, where I am learning about diffrent fields of Software Develelopment, how to use programming languages (**C#**, **Javacript**), working with Databases (**Postgre**, **MySQL**) and also build a website applications using **HTML 5** and **CSS**.
+I also studing Computer Science, where I am learning about diffrent fields of Software Develelopment, how to use programming languages (**C#**, **Javacript**), working with Databases (**Postgres**, **MySQL**) and also build a website applications using **HTML 5** and **CSS**.
 
 
 After hours I love coooking, board games and cats.
