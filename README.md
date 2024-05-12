@@ -1,6 +1,6 @@
 ## Welcome on My Github! 😺
 
-I'm working as a Software Tester, mostly manual one, but I like to automize tasks, whatever I can. I do it mostly to optimize my daily work and develop myself with automation tools. 
+Currently, I'm working as a Software Tester, mostly manual one, but I like to automize tasks, whatever I can. I do it mostly to optimize my daily work and develop myself with automation tools. 
 Why? Because:
 - I like do things in a efficient way
 - I love to learn new things
