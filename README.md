@@ -14,7 +14,8 @@ I also studing Computer Science, where I am learning about diffrent fields of So
 
 After hours I love coooking, board games and cats.
 
-## Check my portfolio! _In Progress_
+## Check my portfolio! 
+_In Progress_
 <!--
 **Shaqix/Shaqix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
